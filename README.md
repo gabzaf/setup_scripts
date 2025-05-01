@@ -10,7 +10,7 @@ Sets up a fresh Debian-based system with essential utilities and tools for a dev
 **Features**:
 - **Version Control**: Installs `git` for source code management.
 - **Text Editing**: Installs `vim` for lightweight code and configuration editing.
-- **Compilers and Debugging**: Installs `clang`, `build-essential`, and `gdb` for compiling and debugging C/C++ programs.
+- **Compilers and Debugging**: Installs `clang`, `build-essential` and `gdb` for compiling and debugging C/C++ programs.
 - **File System Utilities**: Installs `tree` for visualizing directory structures.
 - **Development Libraries**: Installs `libsdl2-dev` for graphics and multimedia development and `libboost-all-dev` for advanced C++ programming.
   
