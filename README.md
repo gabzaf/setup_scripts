@@ -4,8 +4,8 @@ This repository contains a set of modular shell scripts designed to automate the
 
 ## Scripts
 
- #### `base_setup.sh`
-Sets up a fresh Debian-based system with essential utilities and tools for a core development environment. This script is ideal for developers needing a minimal yet functional setup for general programming, particularly C/C++ development with graphics and library support.
+#### `base_setup.sh`
+Sets up a fresh Debian-based system with essential utilities and tools for a development environment. This script is ideal for developers needing a minimal yet functional setup for general programming, particularly C/C++ development with graphics and library support.
 
 **Features**:
 - **Version Control**: Installs `git` for source code management.
@@ -14,13 +14,15 @@ Sets up a fresh Debian-based system with essential utilities and tools for a cor
 - **File System Utilities**: Installs `tree` for visualizing directory structures.
 - **Development Libraries**: Installs `libsdl2-dev` for graphics and multimedia development and `libboost-all-dev` for advanced C++ programming.
   
-* dev-setup.sh - Installs development-related tools and environments (customize based on your needs):
+#### `dev-setup.sh`
+Installs development-related tools and environments (customize based on your needs):
 
   * Programming language environments
   * IDEs and code editors
   * Development libraries
 
-* security-setup.sh - Installs cybersecurity tools for analysis, testing and monitoring:
+#### `security-setup.sh`
+Installs cybersecurity tools for analysis, testing and monitoring:
 
   * Network security tools
   * System hardening utilities
