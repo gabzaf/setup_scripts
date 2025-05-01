@@ -6,20 +6,20 @@ This repository contains a set of modular shell scripts designed to automate the
 
 * base-setup.sh - Installs core system utilities and commonly used tools:
 
-. Git, Vim, Curl, Wget
-. Build essentials
-. System monitoring tools (htop ...)
-. Terminal utilities (zip/unzip ...)
+  * Git, Vim, Curl, Wget
+  * Build essentials
+  * System monitoring tools (htop ...)
+  * Terminal utilities (zip/unzip ...)
 
 * dev-setup.sh - Installs development-related tools and environments (customize based on your needs):
 
-. Programming language environments
-. IDEs and code editors
-. Development libraries
+  * Programming language environments
+  * IDEs and code editors
+  * Development libraries
 
 * security-setup.sh - Installs cybersecurity tools for analysis, testing and monitoring:
 
-Network security tools
-System hardening utilities
-Penetration testing frameworks
-Security monitoring tools
+  * Network security tools
+  * System hardening utilities
+  * Penetration testing frameworks
+  * Security monitoring tools
