@@ -5,6 +5,7 @@ This repository contains a set of modular shell scripts designed to automate the
 ## Structure
 
 setup-scripts/
+|
 ├── base-setup.sh    
 ├── dev-setup.sh      
 └── security-setup.sh 
